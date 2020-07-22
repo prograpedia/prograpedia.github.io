@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Acerca de...
-name: Prograpedia
-tagline: La enciclopedia de la programación
+tags:
+ - Acerca
+ - de
 ---
-### Acerca de...
+Prograpedia nació en 2011...
