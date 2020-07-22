@@ -1,0 +1,3 @@
+### Acerca de...
+
+Este blog comenzó en el 2011 como un proyecto universitario para la clase de comercio electrónico.
