@@ -1,3 +1,3 @@
 ### Acerca de...
 
-Este blog comenzó en el 2011 como un proyecto universitario para la clase de comercio electrónico.
+Este blog comenzó en el 2011 como un proyecto universitario para la clase de comercio electrónico. El blog original se puede acceder mediante este [link](https://blog.prograpedia.com).
