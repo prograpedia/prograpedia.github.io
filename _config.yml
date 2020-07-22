@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Prograpedia
 description: La enciclopedia de la programación
 logo: /images/logo.png
+logo_as_title: true
