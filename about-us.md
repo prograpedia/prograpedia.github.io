@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Acerca de...
-tags:
- - Acerca
- - de
+tags: Acerca de
 ---
 Prograpedia nació en 2011...
